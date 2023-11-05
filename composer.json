@@ -1,0 +1,21 @@
+{
+    "name": "admin/foot-club-correction",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fabien-design",
+            "email": "fabienrozier60@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/routing": "^6.3",
+        "plasticbrain/php-flash-messages": "^1.0",
+        "jbroadway/urlify": "^1.2",
+        "voku/urlify": "^5.0",
+        "nesbot/carbon": "^2.71"
+    }
+}
