@@ -21,10 +21,16 @@ Vous aurez besoin de Composer :
 https://getcomposer.org/
 ```
 
+
+
 Pour installer les dépendences necessaires au fonctionnement du projet aller dans le dossier du projet et faites : 
 
 ```bash
   composer install
 ```
 
+
+
 Pour démarrer le projet, copier le fichier config/parameters.example.php vers config/parameters.php et modifier ce fichier selon vos besoins.
+
+La base de donnée se nomme :  footclub.sql. 
