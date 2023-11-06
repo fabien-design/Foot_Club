@@ -18,7 +18,7 @@ Pour installer le projet accèdez à votre cmd et entrez cette commande&nbsp;:
 Vous aurez besoin de Composer :
 
 ```bash
-https://getcomposer.org/
+  https://getcomposer.org/
 ```
 
 
